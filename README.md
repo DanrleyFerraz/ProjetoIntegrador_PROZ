@@ -30,7 +30,7 @@ Este projeto foi desenvolvido pelos seguintes membros:
 
 ## Objetivo do Projeto
 
-O "Condomínio do Residencial Varandas do Gama" tem como objetivo principal promover práticas sustentáveis dentro de um condomínio, ajudando a reduzir desperdícios, otimizar recursos e melhorar a qualidade de vida de todos os moradores. Além disso, o portal oferece soluções práticas e informações úteis para engajar a comunidade em ações sustentáveis.
+O "Condomínio do Residencial Varandas do Gama" tem como objetivo principal promover práticas sustentáveis dentro do condomínio, ajudando a reduzir desperdícios, otimizar recursos e melhorar a qualidade de vida de todos os moradores. Além disso, o portal oferece soluções práticas e informações úteis para engajar a comunidade em ações sustentáveis.
 
 ## Como Contribuir
 

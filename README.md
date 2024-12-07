@@ -1,4 +1,4 @@
-# Condomínio do Residencial Varandas do Gama
+# Residencial Varandas do Gama
 
 Este projeto é parte do Projeto Integrador do curso da PROZ, desenvolvido pelo grupo 2. O objetivo do projeto é criar uma plataforma online para promover práticas sustentáveis dentro do condomínio "Residencial Varandas do Gama". Através deste portal, os moradores poderão acessar informações, soluções práticas e se envolver com iniciativas sustentáveis para o benefício da comunidade e do meio ambiente.
 
@@ -30,7 +30,7 @@ Este projeto foi desenvolvido pelos seguintes membros:
 
 ## Objetivo do Projeto
 
-O "Condomínio do Residencial Varandas do Gama" tem como objetivo principal promover práticas sustentáveis dentro do condomínio, ajudando a reduzir desperdícios, otimizar recursos e melhorar a qualidade de vida de todos os moradores. Além disso, o portal oferece soluções práticas e informações úteis para engajar a comunidade em ações sustentáveis.
+O "Residencial Varandas do Gama" tem como objetivo principal promover práticas sustentáveis dentro do condomínio, ajudando a reduzir desperdícios, otimizar recursos e melhorar a qualidade de vida de todos os moradores. Além disso, o portal oferece soluções práticas e informações úteis para engajar a comunidade em ações sustentáveis.
 
 ## Como Contribuir
 

@@ -78,14 +78,13 @@ div.footer_site {
    background-color: rgb(19, 36, 53);
    display: flex;
    flex-direction: row;
-   align-items: center;
-   justify-content: center;
+   align-items: flex-start;
 }
 
 section.footer_section {
    width: 25%;
-   height: 220px;
-   padding: 20px;
+   min-height: 220px;
+   padding: 10px;
    text-align: center;
 }
 
@@ -112,11 +111,6 @@ p.footer_text {
    font-size: 16px;
    text-align: left;
    color: rgb(221, 221, 221);
-}
-
-/* section links */
-section#footer_links {
-   padding: 0 50px;
 }
 
 ul.footer_menu {

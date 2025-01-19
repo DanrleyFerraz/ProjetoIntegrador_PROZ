@@ -11,10 +11,10 @@
 
 html {
    font-family: "Open Sans", sans-serif;
-    /* Impede que o conteúdo fora da tela seja visível */
-    overflow-x: hidden;
-    /*estilo para que a rolagem seja suave*/
-    scroll-behavior: smooth;
+   /* Impede que o conteúdo fora da tela seja visível */
+   overflow-x: hidden;
+   /*estilo para que a rolagem seja suave*/
+   scroll-behavior: smooth;
 }
 
 /* ---------------------------- Cabeçalho ---------------------------- */
@@ -22,7 +22,7 @@ html {
 nav.nav_menu {
    display: flex;
    align-items: center;
-   box-shadow: 0px 0px 5px 2px #888888;
+   box-shadow: 0px 0px 5px 2px darkgray;
    padding: 5px 0;
 }
 
@@ -127,6 +127,7 @@ li.footer_item {
 li.footer_item:hover {
    background-color: rgba(41, 76, 116, 0.5);
    transition: 0.4s;
+
    a.footer_link {
       color: rgb(255, 255, 255);
    }
@@ -173,18 +174,19 @@ p.footer_copy {
    padding: 10px 0 20px 0;
 }
 
+
 /* ---------------------------- Correção de Tela ---------------------------- */
 
 @media(max-width: 550px) {
 
    /* Cabeçalho */
    ul.nav_group {
-       flex-direction: column;
-       padding: 10px 0;
+      flex-direction: column;
+      padding: 10px 0;
    }
 
    img#logomarca {
-       height: 200px;
+      height: 200px;
    }
 
    li.nav_item {
@@ -192,31 +194,28 @@ p.footer_copy {
    }
 
    .mobile {
-       display: block;
+      display: block;
    }
 
    .desktop {
-       display: none;
+      display: none;
    }
 
 
-/* Rpdapé */
-section.footer_section {
-   width: 25%;
-   height: 320px;
-   padding: 10px;
-}
+   /* Rpdapé */
+   img#logo_footer {
+      height: 130px;
+   }
 
-img#logo_footer {
-   height: 130px;
-}
    p.footer_text {
       font-size: 12px;
    }
+
    section#footer_links {
       padding: 0;
       margin: 0;
    }
+
    a.footer_link {
       font-size: 12px;
       padding: 0;
@@ -224,12 +223,12 @@ img#logo_footer {
    }
 }
 
-@media (min-width: 551px)  {
+@media (min-width: 551px) {
    .mobile {
-       display: none;
+      display: none;
    }
 
    .desktop {
-       display: block;
+      display: block;
    }
 }

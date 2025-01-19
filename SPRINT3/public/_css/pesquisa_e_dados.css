@@ -19,15 +19,37 @@ main {
    padding: 2%;
    border: 2px solid darkgray;
    box-shadow: 0px 0px 10px 2px darkgray;
-
    display: flex;
    flex-direction: column;
    align-items: center;
 }
 
 img.img_main {
-   width: 60%;
    margin: 10px 0;
+}
+
+img#grafico01 {
+   width: 70%;
+}
+
+img#grafico02 {
+   width: 80%;
+}
+
+img#grafico03 {
+   width: 65%;
+}
+
+img#grafico04 {
+   width: 65%;
+}
+
+img#grafico05 {
+   width: 100%;
+}
+
+img#grafico06 {
+   width: 70%;
 }
 
 h1.h1_main {
@@ -57,6 +79,17 @@ legend {
 
 p.p_main {
    color: rgb(44, 44, 44);
-   font-weight: normal;
+   font-weight: 550;
    font-size: 16px;
+}
+
+/* ---------------------------- Correção de Tela ---------------------------- */
+
+@media(max-width: 550px) {
+
+   main {
+      width: 76%;
+      margin: 2% 10%;
+   }
+
 }

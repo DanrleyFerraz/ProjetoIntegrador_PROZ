@@ -45,8 +45,8 @@ h2.comunicacao {
 }
 
 img.imagem1 {
-   width: 100%;
-   max-height: 400px;
+   width: 60%;
+   height: auto;
    object-fit: cover;
    border-radius: 8px;
    margin-bottom: 15px;
@@ -69,6 +69,7 @@ p.paragrafo {
    margin-bottom: 10px;
 }
 
+/*
 ul {
    list-style: none;
    display: flex;
@@ -90,6 +91,7 @@ ul li a:hover {
    background-color: #3B8A16;
    color: white;
 }
+   */
 
 fieldset {
    width: 100%;

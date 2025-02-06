@@ -63,7 +63,7 @@ nav[aria-label="Navegação entre as soluções"] a:hover {
 }
 
 .card:hover {
-   transform: translateY(-5px);
+   transform: translateY(-3px);
    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
@@ -75,10 +75,14 @@ h1 {
    text-align: center;
 }
 
+h2#introducao-sustentabilidade {
+   color: rgb(22, 138, 80);
+}
+
 h2 {
    font-size: 2em;
    margin-bottom: 15px;
-   color: #228b22;
+   color: rgb(22, 105, 138);
 }
 
 p {

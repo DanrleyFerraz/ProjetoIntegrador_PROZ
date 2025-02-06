@@ -16,25 +16,25 @@ html {
 }
 
 main {
-   width: 90%;
-   max-width: 1200px;
-   margin: 20px auto;
-   padding: 20px;
-   border: 2px solid #7FFF00;
-   border-radius: 10px;
-   box-shadow: 0px 0px 15px 2px #7FFF00;
+   
+   width: 76%;
+   margin: 2% 10%;
+   padding: 2%;
+   border: 2px solid darkgray;
+   border-radius: 6px;
+   box-shadow: 0px 0px 10px 2px darkgray;
    display: flex;
    flex-direction: column;
    align-items: center;
-   background-color: #f5fff0;
+   background-color: white;
 }
 
 h1.h1 {
    width: 100%;
-   color: #3B8A16;
-   text-align: left;
-   font-size: 2rem;
-   margin-bottom: 15px;
+   color: rgb(22, 138, 80);
+   text-align: center;
+   margin-bottom: 10px;
+   font-size: 33px;
 }
 
 h2.comunicacao {
@@ -43,21 +43,19 @@ h2.comunicacao {
    color: #b8740e;
    margin-bottom: 10px;
 }
+h2.h2{
+   width: 100%;
+   text-align: left;
+   color: rgb(22, 105, 138);
+   margin-bottom: -10px;
+}
 
 img.imagem1 {
-   width: 100%;
-   max-height: 400px;
+   width: 60%;
+   height: auto;
    object-fit: cover;
    border-radius: 8px;
    margin-bottom: 15px;
-}
-
-h2.h2 {
-   width: 100%;
-   color: #3B8A16;
-   text-align: left;
-   font-size: 1.5rem;
-   margin-bottom: 10px;
 }
 
 p.paragrafo {
@@ -69,14 +67,14 @@ p.paragrafo {
    margin-bottom: 10px;
 }
 
-ul {
+ul.formulario_ul {
    list-style: none;
    display: flex;
    gap: 10px;
    padding: 10px 0;
 }
 
-ul li a {
+a.formulario_a {
    text-decoration: none;
    color: #3B8A16;
    font-weight: bold;
@@ -86,7 +84,7 @@ ul li a {
    transition: 0.3s;
 }
 
-ul li a:hover {
+a.formulario_a:hover {
    background-color: #3B8A16;
    color: white;
 }

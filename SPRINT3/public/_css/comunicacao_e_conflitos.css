@@ -67,7 +67,12 @@ p.paragrafo {
    margin-bottom: 10px;
 }
 
+<<<<<<< HEAD
 ul.formulario_ul {
+=======
+/*
+ul {
+>>>>>>> 8cab8adf2d20af10b6f349f32dd11ce518e2a617
    list-style: none;
    display: flex;
    gap: 10px;
@@ -88,6 +93,7 @@ a.formulario_a:hover {
    background-color: #3B8A16;
    color: white;
 }
+   */
 
 fieldset {
    width: 100%;

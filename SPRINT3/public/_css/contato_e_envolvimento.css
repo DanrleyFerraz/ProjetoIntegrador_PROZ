@@ -94,6 +94,7 @@ button:hover {
    background-color: #2e8b57;
    color: white;
    border: 2px solid white;
+   cursor: pointer;
 }
 
 footer{
